@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Olá, eu sou a DevSmart Sky
 
-<!--
-**devsmart-sky/devsmart-sky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bem-vindo ao meu perfil! Aqui compartilho projetos de **desenvolvimento fullstack**.
 
-Here are some ideas to get you started:
+## 🔧 Stack
+React • Node.js • TypeScript • Next.js • MySQL • PostgreSQL • Docker • IIS • SSO (Azure AD)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projetos em destaque
+- [intranet-smartsky](https://github.com/devsmart-sky/intranet-smartsky)
+
+## 📊 Estatísticas
+![Stats](https://github-readme-stats.vercel.app/api?username=devsmart-sky&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devsmart-sky&layout=compact&theme=dark)
+
+## 🌐 Contato
+✉️ dev@smartsky.tech
